@@ -1,0 +1,124 @@
+{
+  "length-height-for-age": {
+    "z": {
+      "girls": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=a2c6650e_11",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_0-to-2-years_zscores.xlsx?sfvrsn=e9e66a95_11",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_2-to-5-years_zscores.xlsx?sfvrsn=2ec187b9_11"
+      },
+      "boys": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=70682dcc_9",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_0-to-2-years_zscores.xlsx?sfvrsn=30e044c_9",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_2-to-5-years_zscores.xlsx?sfvrsn=17e5ad91_9"
+      }
+    },
+    "p": {
+      "girls": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_0_13.xlsx?sfvrsn=e646fa53_11",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_0_2.xlsx?sfvrsn=770a5ab8_9",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_2_5.xlsx?sfvrsn=5716360d_9"
+      },
+      "boys": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_0_13.xlsx?sfvrsn=352c6026_9",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_0_2.xlsx?sfvrsn=308931b2_12",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_2_5.xlsx?sfvrsn=d6758a88_9"
+      }
+    }
+  },
+
+  "weight-for-age": {
+    "z": {
+      "girls": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=c4f4ba9f_7",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_girls_0-to-5-years_zscores.xlsx?sfvrsn=4c03b8db_7"
+      },
+      "boys": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=6e3a980f_7",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_boys_0-to-5-years_zscores.xlsx?sfvrsn=97a05331_9"
+      }
+    },
+    "p": {
+      "girls": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_girls_p_0_13.xlsx?sfvrsn=e99e4ddb_11",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_girls_p_0_5.xlsx?sfvrsn=666fe445_7"
+      },
+      "boys": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_boys_p_0_13.xlsx?sfvrsn=822d73c6_7",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_boys_p_0_5.xlsx?sfvrsn=a0b3ed5_7"
+      }
+    }
+  },
+
+  "weight-for-length-height": {
+    "z": {
+      "girls": {
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfl_girls_0-to-2-years_zscores.xlsx?sfvrsn=288bc4e4_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfh_girls_2-to-5-years_zscores.xlsx?sfvrsn=4d66af6a_7"
+      },
+      "boys": {
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfl_boys_0-to-2-years_zscores.xlsx?sfvrsn=e27a9da3_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfh_boys_2-to-5-years_zscores.xlsx?sfvrsn=202c0545_7"
+      }
+    },
+    "p": {
+      "girls": {
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfl_girls_p_0_2.xlsx?sfvrsn=9957c4f_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfh_girls_p_2_5.xlsx?sfvrsn=44c0c6a9_7"
+      },
+      "boys": {
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfl_boys_p_0_2.xlsx?sfvrsn=556712b2_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfh_boys_p_2_5.xlsx?sfvrsn=d5b3f68c_7"
+      }
+    }
+  },
+
+  "body-mass-index-for-age": {
+    "z": {
+      "girls": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=7668918a_7",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_0-to-2-years_zscores.xlsx?sfvrsn=2be9859c_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_2-to-5-years_zscores.xlsx?sfvrsn=452aca36_7"
+      },
+      "boys": {
+        "0-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=8eff3d30_7",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_0-to-2-years_zcores.xlsx?sfvrsn=df725cc9_7",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_2-to-5-years_zscores.xlsx?sfvrsn=73010c9b_5"
+      }
+    },
+    "p": {
+      "girls": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_0_13.xlsx?sfvrsn=42baea8e_5",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_0_2.xlsx?sfvrsn=47b71c57_5",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_2_5.xlsx?sfvrsn=82b179c7_5"
+      },
+      "boys": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_0_13.xlsx?sfvrsn=b2115811_5",
+        "0-2": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_0_2.xlsx?sfvrsn=b5e6cb08_5",
+        "2-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_2_5.xlsx?sfvrsn=f25b7478_7"
+      }
+    }
+  },
+
+  "head-circumference-for-age": {
+    "z": {
+      "girls": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-girls-0-13-zscores.xlsx?sfvrsn=f5795450_8",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-girls-0-5-zscores.xlsx?sfvrsn=8f959f88_6"
+      },
+      "boys": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-boys-0-13-zscores.xlsx?sfvrsn=b6bd79e9_8",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-boys-0-5-zscores.xlsx?sfvrsn=adf57aa4_8"
+      }
+    },
+    "p": {
+      "girls": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_girls_p_0_13.xlsx?sfvrsn=be3f8ce1_5",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_girls_p_0_5.xlsx?sfvrsn=ad755200_5"
+      },
+      "boys": {
+        "0-13": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_boys_p_0_13.xlsx?sfvrsn=c715dc9f_5",
+        "0-5": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_boys_p_0_5.xlsx?sfvrsn=d6284c4c_5"
+      }
+    }
+  }
+}
